@@ -2,4 +2,5 @@ fyneLanShare
 *.deb
 *.exe
 *.zip
-
+*.tgz
+/doc-pak
