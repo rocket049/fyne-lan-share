@@ -6,3 +6,4 @@
 
 同时也会显示一个二维码，可以用手机浏览器扫描访问。
 
+[查看应用截图](https://rocket049.cn/fynelanshare.md)
